@@ -3,7 +3,7 @@ Reads in Ergoneers Dikablis eye tracker data and syncs it to mocap recordings.
 
 ## INSTALL
 
-- download Mocap Toolbox if you have not done it yet (https://www.jyu.fi/hytk/fi/laitokset/mutku/en/research/materials/mocaptoolbox).
+- download Mocap Toolbox if you have not done it yet.
 
 - move/copy the two Matlab functions (mcreadeye.m and mcsyncmocap2eye.m) into the toolbox folder 
 
